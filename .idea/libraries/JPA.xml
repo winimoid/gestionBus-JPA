@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JPA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mariadb-java-client-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaee-api-8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
