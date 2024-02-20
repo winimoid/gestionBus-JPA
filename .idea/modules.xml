@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gestionCollege_JPA.iml" filepath="$PROJECT_DIR$/gestionCollege_JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestionBus_JPA.iml" filepath="$PROJECT_DIR$/gestionBus_JPA.iml" />
     </modules>
   </component>
 </project>
